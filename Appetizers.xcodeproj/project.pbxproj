@@ -20,6 +20,7 @@
 		A2640EDC2697BC8A00EA9640 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2640EDB2697BC8A00EA9640 /* Assets.xcassets */; };
 		A2640EDF2697BC8A00EA9640 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2640EDE2697BC8A00EA9640 /* Preview Assets.xcassets */; };
 		A27DD4132698EADD00FAAB65 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = A27DD4122698EADD00FAAB65 /* Alert.swift */; };
+		A27DD4152698F1DA00FAAB65 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A27DD4142698F1DA00FAAB65 /* LoadingView.swift */; };
 		A27DD4172698F27400FAAB65 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A27DD4162698F27400FAAB65 /* Color+Ext.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		A2640EDE2697BC8A00EA9640 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A2640EE02697BC8A00EA9640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A27DD4122698EADD00FAAB65 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
+		A27DD4142698F1DA00FAAB65 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		A27DD4162698F27400FAAB65 /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,6 +88,7 @@
 				A2640EE02697BC8A00EA9640 /* Info.plist */,
 				A2640EDD2697BC8A00EA9640 /* Preview Content */,
 				A27DD4122698EADD00FAAB65 /* Alert.swift */,
+				A27DD4142698F1DA00FAAB65 /* LoadingView.swift */,
 				A27DD4162698F27400FAAB65 /* Color+Ext.swift */,
 			);
 			path = Appetizers;
@@ -174,6 +177,7 @@
 				A20EEC232697BD6B00D2F8A7 /* AccountView.swift in Sources */,
 				A27DD4172698F27400FAAB65 /* Color+Ext.swift in Sources */,
 				A20EEC252697BD7E00D2F8A7 /* OrderView.swift in Sources */,
+				A27DD4152698F1DA00FAAB65 /* LoadingView.swift in Sources */,
 				A20EEC2D2698BF2700D2F8A7 /* NetworkManager.swift in Sources */,
 				A2640EDA2697BC8800EA9640 /* AppetizerTabView.swift in Sources */,
 				A20EEC312698C7C300D2F8A7 /* AppetizerListViewModel.swift in Sources */,
