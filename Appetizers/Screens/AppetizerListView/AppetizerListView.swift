@@ -18,7 +18,6 @@ struct AppetizerListView: View {
                 List(viewModel.appetizers) { appetizer in
                     AppetizerListCell(appetizer: appetizer)
                         .onTapGesture {
-                            print(appetizer)
                             selectedAppetizer = appetizer
                             isShowingDetailView = true
                         }
